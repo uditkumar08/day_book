@@ -46,4 +46,4 @@ const updateProfile = async (req, res) => {
   }
 };
 
-module.exports = { viewProfile, updateProfile };
+module.exports = {viewProfile, updateProfile};
